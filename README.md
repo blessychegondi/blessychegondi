@@ -1,6 +1,7 @@
-# *Hi there*👋
+# *Hi there*👋 I'm Ramya
 ## **I'm Blessy**
 ### ***Aditya engineering college***
+### ***surampalem***
 ![aditya.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSoP7wxhUR5QEf9UHgy833rEm4NnC0O2IvUg&usqp=CAU)
 
 |s.no| name| roll.no| branch|
@@ -9,7 +10,6 @@
 |2|ramya|549|ece|
 |3|ishu|561|mech|
 |4|sahasra|525|civil|
-
 
 # ordered list
 1. CSE
